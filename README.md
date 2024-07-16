@@ -3,7 +3,7 @@
 Este repositorio contiene una aplicación web básica con HTML, CSS y JavaScript. La aplicación utiliza jQuery para realizar solicitudes AJAX y manipular el DOM de forma dinámica. 
 
 ### Estructura del proyecto.
-
+ 
 El proyecto está estructurado de la siguiente manera:
 
     index.html: Contiene la estructura HTML de la aplicación.
