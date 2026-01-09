@@ -10,7 +10,7 @@ El proyecto está estructurado de la siguiente manera:
     styles.css: Archivo CSS para estilizar la aplicación.
     script.js: Código JavaScript que utiliza jQuery para interactuar con la API y manipular el DOM.
     jquery.min.js: Biblioteca jQuery minificada utilizada en el proyecto.
- 
+
 ## Uso
 
 Para ejecutar la aplicación localmente, sigue estos pasos:
