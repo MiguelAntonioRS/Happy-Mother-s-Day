@@ -1,4 +1,4 @@
-# Aplicación web por el dia de las madres
+# Aplicación web por el dia de las madres.
 
 Este repositorio contiene una aplicación web básica con HTML, CSS y JavaScript. La aplicación utiliza jQuery para realizar solicitudes AJAX y manipular el DOM de forma dinámica.
 
