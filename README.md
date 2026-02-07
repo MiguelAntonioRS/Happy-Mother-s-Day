@@ -9,7 +9,7 @@ El proyecto está estructurado de la siguiente manera:
     index.html: Contiene la estructura HTML de la aplicación.
     styles.css: Archivo CSS para estilizar la aplicación.
     script.js: Código JavaScript que utiliza jQuery para interactuar con la API y manipular el DOM.
-    jquery.min.js: Biblioteca jQuery minificada utilizada en el proyecto.
+    jquery.min.js: Biblioteca jQuery minificada utilizada en el proyecto. 
  
 ## Uso
 
